@@ -34,5 +34,13 @@ class LinkedList {
 let list = new LinkedList;
 
 list.addEnd(1)
+list.addEnd(2)
+list.addEnd(3)
+list.addEnd(4)
+list.addEnd(5)
 
 console.log(list)
+
+
+
+
